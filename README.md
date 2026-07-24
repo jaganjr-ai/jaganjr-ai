@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there, I'm Jagan Reddy 👋
 
-<!--
-**jaganjr-ai/jaganjr-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 **Power Platform & SharePoint Developer**  
+🤖 Passionate about **Agentic AI**, Automation, and Microsoft Technologies.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Power Platform & SharePoint Developer
+- 🤖 Exploring Agentic AI & AI Agents
+- 🐍 Learning Python
+- 🌱 Continuous learner and technology enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- SharePoint Online
+- Power Apps
+- Power Automate
+- SPFx
+- React
+- Dataverse
+- Microsoft Graph API
+- REST API
+- Python
+
+## 🌱 Currently Learning
+- Agentic AI
+- AI Agent Frameworks
+- Python
+- MCP (Model Context Protocol)
+- Microsoft Graph API
+
+## 📚 What I Share
+- SharePoint Development
+- Power Platform Tips & Tricks
+- Agentic AI
+- Python Projects
+- Real-world Automation Solutions
+
+## 📫 Connect with Me
+- 💼 LinkedIn: https://www.linkedin.com/in/jagan-reddy-k
+- 🌐 Hashnode: https://github.com/jaganjr-ai
+
+⭐ *"Learning, Building, and Sharing — One Project at a Time."*
